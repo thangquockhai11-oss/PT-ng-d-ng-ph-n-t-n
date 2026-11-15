@@ -1,0 +1,11 @@
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\bin\Debug\net10.0\Support.Shared.deps.json
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\bin\Debug\net10.0\Support.Shared.dll
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\bin\Debug\net10.0\Support.Shared.pdb
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\obj\Debug\net10.0\Support.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\obj\Debug\net10.0\Support.Shared.AssemblyInfoInputs.cache
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\obj\Debug\net10.0\Support.Shared.AssemblyInfo.cs
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\obj\Debug\net10.0\Support.Shared.csproj.CoreCompileInputs.cache
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\obj\Debug\net10.0\Support.Shared.dll
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\obj\Debug\net10.0\refint\Support.Shared.dll
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\obj\Debug\net10.0\Support.Shared.pdb
+D:\HOC\PTUDPT\THI_PTUDPT\CustomerSupportSystem\src\Support.Shared\obj\Debug\net10.0\ref\Support.Shared.dll
