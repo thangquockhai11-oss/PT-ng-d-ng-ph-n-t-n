@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/CustomerSupportSystem/" />
+  <Folder Name="/CustomerSupportSystem/src/">
+    <Project Path="CustomerSupportSystem/src/Support.API/Support.API.csproj" />
+    <Project Path="CustomerSupportSystem/src/Support.Shared/Support.Shared.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Assignment.Worker/Assignment.Worker.csproj" />
+    <Project Path="src/Notification.Service/Notification.Service.csproj" />
+    <Project Path="src/Support.API/Support.API.csproj" />
+    <Project Path="src/Support.Shared/Support.Shared.csproj" />
+  </Folder>
+</Solution>
